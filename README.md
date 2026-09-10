@@ -32,7 +32,7 @@ portfolio/
 
 No build step or dependencies needed — it's plain HTML/CSS/JS.
 
-1. Clone the repo: `git clone https://github.com/SarvinozAbdullaeva/portfolio.git`
+1. Clone the repo: `git clone https://github.com/SarvinozAbdullaeva/sarvinozabdullaeva.github.io.git`
 2. Open `index.html` directly in a browser, or serve it locally with:
    
    npx serve 
