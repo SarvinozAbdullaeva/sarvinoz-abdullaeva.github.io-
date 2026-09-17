@@ -2,7 +2,8 @@
 
 Personal portfolio site built to showcase my web development skills as I look for my first developer role or a työkokeilu / harjoittelu placement in Helsinki, Finland.
 
-Live site: https://sarvinozabdullaeva.github.io/sarvinoz-abdullaeva.github.io-/ 
+# Live site: 
+https://sarvinozabdullaeva.github.io/sarvinoz-abdullaeva.github.io-/ 
 
 ## About
 
